@@ -1,0 +1,6 @@
+.venv-basic/
+.venv-ml/
+.venv-dl/
+__pycache__/
+*.pyc
+.DS_Store
